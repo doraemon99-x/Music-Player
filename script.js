@@ -23,6 +23,12 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
+        name : 'axlinesid',
+        artist : 'axlinesid',
+        music : 'music/OJO DI BANDINGKE.mp3'
+    },
+    {
+        img : 'images/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
         music : 'music/stay.mp3'

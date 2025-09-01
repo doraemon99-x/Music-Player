@@ -23,9 +23,27 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'axlinesid',
-        artist : 'axlinesid',
+        name : 'OJO DI BANDINGKE',
+        artist : 'Doraemeon',
         music : 'music/OJO DI BANDINGKE.mp3'
+    },
+    {
+        img : 'images/stay.png',
+        name : 'Full Senyum Sayang',
+        artist : 'Doraemeon',
+        music : 'music/Full Senyum Sayang.mp3'
+    },
+    {
+        img : 'images/stay.png',
+        name : 'Joko Tingkir',
+        artist : 'Doraemeon',
+        music : 'music/Joko Tingkir.mp3'
+    },
+    {
+        img : 'images/stay.png',
+        name : 'Harusnya Aku',
+        artist : 'Doraemeon',
+        music : 'music/Harusnya Aku.mp3'
     },
     {
         img : 'images/stay.png',

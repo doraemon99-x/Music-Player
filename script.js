@@ -47,6 +47,12 @@ const music_list = [
     },
     {
         img : 'images/stay.png',
+        name : 'DJ JBM KEYBOARD CUSTOM KN7000 VOL 1 TERBARU',
+        artist : 'Doraemeon',
+        music : 'https://tipigd.tipikug.workers.dev/0:/MirrorFolder%20oleh%20kaelamirrorbot/DJ%20JBM%20KEYBOARD%20CUSTOM%20KN7000%20VOL%201%20TERBARU.mp3'
+    },
+    {
+        img : 'images/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
         music : 'music/stay.mp3'
